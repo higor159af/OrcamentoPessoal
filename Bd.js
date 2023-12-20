@@ -1,5 +1,3 @@
-import { carregaListaDespesas } from "./listaDespesas.js";
-
 export class Bd {
   constructor() {
     // criamos um campo id no localStorage
