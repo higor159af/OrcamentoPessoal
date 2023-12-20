@@ -22,7 +22,7 @@ if (btnCadastrar) {
       type.value,
       description.value,
       valor.value
-      
+
     );
     // console.log(despesa);
 
@@ -73,7 +73,7 @@ let pageConsulta = document.getElementById("pageConsulta");
 // verifica existencia de ID pageConsulta
 if (pageConsulta) {
   window.addEventListener("load", () => {
-    carregaListaDespesas();
+    carregaListaDespesas()
     removeDespesas()
   });
 
