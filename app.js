@@ -22,6 +22,7 @@ if (btnCadastrar) {
       type.value,
       description.value,
       valor.value
+      
     );
     // console.log(despesa);
 
